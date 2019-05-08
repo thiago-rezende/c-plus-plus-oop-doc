@@ -1,5 +1,3 @@
-# c-plus-plus-oop-doc
-A simple c-plus-plus porject to learn doxygen documentation
 # C-Plus-Plus OOP Doc
 
 ![](https://img.shields.io/badge/build-passing-green.svg) ![](https://img.shields.io/badge/Premake-5-green.svg) ![](https://img.shields.io/badge/C++-17-orange.svg) ![](https://img.shields.io/badge/LUA-5.3-blue.svg) ![](https://img.shields.io/badge/Doxygen-1.8.15-9cf.svg)
