@@ -1,0 +1,7 @@
+<map id="horus::Entity::Entity" name="horus::Entity::Entity">
+<area shape="rect" id="node1" title="Construct a new empty Entity object." alt="" coords="5,56,144,83"/>
+<area shape="rect" id="node2" href="$classhorus_1_1_entity.html#ab79fbaa70b210d545963e497d900c430" title="Set the Name object." alt="" coords="199,5,355,32"/>
+<area shape="rect" id="node3" href="$classhorus_1_1_entity.html#a3f3da8ab462e643ae69b57122c011498" title="Set the Info object." alt="" coords="205,56,348,83"/>
+<area shape="rect" id="node4" href="$classhorus_1_1_entity.html#ac32d94dd5f41de51145287765810102e" title="Set the Position object." alt="" coords="192,107,361,133"/>
+<area shape="rect" id="node5" href="$structhorus_1_1core_1_1vec3.html#a48e880b294e8af2cf42a210d6b0f7e01" title="set the coordenates of vec3 object" alt="" coords="409,107,556,133"/>
+</map>

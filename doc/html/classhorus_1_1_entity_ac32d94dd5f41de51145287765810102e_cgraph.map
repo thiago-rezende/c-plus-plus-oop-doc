@@ -1,0 +1,4 @@
+<map id="horus::Entity::setPosition" name="horus::Entity::setPosition">
+<area shape="rect" id="node1" title="Set the Position object." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node2" href="$structhorus_1_1core_1_1vec3.html#a48e880b294e8af2cf42a210d6b0f7e01" title="set the coordenates of vec3 object" alt="" coords="223,5,369,32"/>
+</map>

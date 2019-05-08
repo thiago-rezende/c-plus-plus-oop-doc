@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,56,108"/>
+<area shape="rect" id="node2" href="$classhorus_1_1_entity.html#a1d23c32464be7c6a793b68bcb2fe73dc" title="Get the Name object." alt="" coords="111,5,267,32"/>
+<area shape="rect" id="node3" href="$classhorus_1_1_entity.html#acc8329784f6971b81e4494ca8b229567" title="Get the Info object." alt="" coords="117,56,260,83"/>
+<area shape="rect" id="node4" href="$classhorus_1_1_entity.html#a12f916f4669546f0c17cf1be5bac20de" title="Get the Position object." alt="" coords="104,107,273,133"/>
+<area shape="rect" id="node5" href="$structhorus_1_1core_1_1vec3.html#aaed738a69b64337691901eb3cea4b040" title="get the vec3 coordenates in string format" alt="" coords="124,158,253,199"/>
+</map>
